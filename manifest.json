@@ -14,7 +14,7 @@
         {
             "matches": ["*://github.com/*"],
             "js": ["src/main.js"],
-            "run_at": "document_idle"
+            "run_at": "document_end"
         }
     ]
 }
